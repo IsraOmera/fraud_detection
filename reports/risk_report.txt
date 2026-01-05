@@ -1,0 +1,29 @@
+Bank Transaction Risk & Anomaly Analyzer Report
+==================================================
+
+Generated at: 2026-01-05 02:23:09
+
+Summary Statistics
+--------------------
+Total users analyzed: 414032
+Risk Band Distribution
+--------------------
+Low: 405780
+Medium: 4860
+Critical: 1938
+High: 1454
+
+Top 10 High-Risk Users
+--------------------
+User: C876181265 | Risk Band: Critical | Risk Score: 126.517 
+User: C1703502966 | Risk Band: Critical | Risk Score: 58.491 
+User: C1194642233 | Risk Band: Critical | Risk Score: 57.513 
+User: C1993467848 | Risk Band: Critical | Risk Score: 48.184 
+User: C1400737889 | Risk Band: Critical | Risk Score: 31.058 
+User: C810199545 | Risk Band: Critical | Risk Score: 27.375 
+User: C20653372 | Risk Band: Critical | Risk Score: 27.157 
+User: C744610572 | Risk Band: Critical | Risk Score: 23.854 
+User: C2028306532 | Risk Band: Critical | Risk Score: 23.308 
+User: C1241923435 | Risk Band: Critical | Risk Score: 21.959 
+
+End of Report
